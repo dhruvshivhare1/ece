@@ -16,10 +16,10 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Entrecon is our premier annual event designed to bridge the gap between aspiring entrepreneurs and the dynamic world of startups. This comprehensive event brings together industry leaders, successful entrepreneurs, and passionate students to create a vibrant ecosystem of innovation and learning.',
             image: 'assets/events/entrecon1.jpg',
             gallery: [
-                'assets/events/entrecon1.jpg',
-                'assets/events/entrecon2.jpg',
-                'assets/events/entrecon3.jpg',
-                'assets/events/entrecon4.jpg'
+                'entrecon1.jpg',
+                'entrecon2.jpg',
+                'entrecon3.jpg',
+                'entrecon4.jpg'
             ]
         },
         {
@@ -28,10 +28,10 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'assets/orientation1.jpeg',
             description: 'Our annual Orientation Program is a transformative event that introduces students to the exciting world of entrepreneurship. Through engaging presentations, interactive sessions, and inspiring talks, we aim to kindle the entrepreneurial spirit and provide a roadmap for innovation and leadership.',
             gallery: [
-                'assets/orientation1.jpeg',
-                'assets/orientation2.jpg',
-                'assets/orientation3.jpg',
-                'assets/orientation4.jpg'
+                'orientation1.jpeg',
+                'orientation2.jpg',
+                'orientation3.jpg',
+                'orientation4.jpg'
 
             ]
         },
@@ -42,8 +42,8 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'assets/team-cover.jpg',
             gallery: [
                     'assets/team-cover.jpg',
-                    'assets/induction2.jpg',
-                    'assets/induction3.jpg',
+                    'induction2.jpg',
+                    'induction3.jpg',
             ]
         },
         {
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
             image: 'assets/nsic.png',
             gallery: [
-                'assets/nsic.png',
+                'nsic.png',
                  
             ]
         },
