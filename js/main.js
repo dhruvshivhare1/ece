@@ -14,24 +14,24 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Entrecon\'24',
             intro: ' The annual flagship event of the Entrepreneurship Cell aims to inspire and empower students by connecting them with industry experts and emerging startups, fostering entrepreneurial spirit and learning.',
             description: 'Entrecon is our premier annual event designed to bridge the gap between aspiring entrepreneurs and the dynamic world of startups. This comprehensive event brings together industry leaders, successful entrepreneurs, and passionate students to create a vibrant ecosystem of innovation and learning.',
-            image: '../assets/events/entrecon1.jpg',
+            image: '/assets/events/entrecon1.jpg',
             gallery: [
-                '../entrecon1.jpg',
-                '../entrecon2.jpg',
-                '../entrecon3.jpg',
-                '../entrecon4.jpg'
+                '/entrecon1.jpg',
+                '/entrecon2.jpg',
+                '/entrecon3.jpg',
+                '/entrecon4.jpg'
             ]
         },
         {
             title: 'Orientation\'24',
             intro: 'The E-Cell hosted an inspiring orientation, igniting entrepreneurial passion among students. The event showcased the E-Cell\'s vision, upcoming opportunities, and success stories, motivating students to embark on their journey of innovation and leadership.',
-            image: '../assets/orientation1.jpeg',
+            image: '/assets/orientation1.jpeg',
             description: 'Our annual Orientation Program is a transformative event that introduces students to the exciting world of entrepreneurship. Through engaging presentations, interactive sessions, and inspiring talks, we aim to kindle the entrepreneurial spirit and provide a roadmap for innovation and leadership.',
             gallery: [
-                '../orientation1.jpeg',
-                '../orientation2.jpg',
-                '../orientation3.jpg',
-                '../orientation4.jpg'
+                '/orientation1.jpeg',
+                '/orientation2.jpg',
+                '/orientation3.jpg',
+                '/orientation4.jpg'
 
             ]
         },
@@ -39,20 +39,20 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Induction Ceremony',
             intro: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
             description: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
-            image: '../assets/team-cover.jpg',
+            image: '/assets/team-cover.jpg',
             gallery: [
-                    '../assets/team-cover.jpg',
-                    '../induction2.jpg',
-                    '../induction3.jpg',
+                    '/assets/team-cover.jpg',
+                    '/induction2.jpg',
+                    '/induction3.jpg',
             ]
         },
         {
             title: 'NSIC Okhla Visit',
             intro: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
             description: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
-            image: '../assets/nsic.png',
+            image: '/assets/nsic.png',
             gallery: [
-                '../nsic.png',
+                '/nsic.png',
                  
             ]
         },
@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'World Entrepreneurship Day',
             intro: 'Organized an impactful event featuring esteemed entrepreneurs Jitender Girdhar, Vaneeta Aggarwal, and Shubham Maheshwari, celebrating entrepreneurial achievements and sharing valuable insights.',
             description: 'Organized an impactful event featuring esteemed entrepreneurs Jitender Girdhar, Vaneeta Aggarwal, and Shubham Maheshwari, celebrating entrepreneurial achievements and sharing valuable insights.',
-            image: '../assets/events/startup_weekend.jpg',
+            image: '/assets/events/startup_weekend.jpg',
             gallery: [
                 'assets/events/startup_weekend_1.jpg',
                 'assets/events/startup_weekend_2.jpg',
